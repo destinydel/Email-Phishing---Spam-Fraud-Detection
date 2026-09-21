@@ -2,7 +2,6 @@
 
 ### Project Overview
 
-This project uses machine learning to predict the energy consumption of electric vehicles (EVs) based on trip and diagnostics data. (write goal)
 
 (summary)
 
@@ -18,9 +17,10 @@ This project uses machine learning to predict the energy consumption of electric
 
 - Python
 - Pandas
+- scikit learn
 - NumPy
 - Matplotlib
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook 
 
 
 ### Results
