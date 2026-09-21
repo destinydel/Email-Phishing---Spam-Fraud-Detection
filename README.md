@@ -1,4 +1,4 @@
-# EV-stat-predictor
+# Email Phish Project
 
 ### Project Overview
 
