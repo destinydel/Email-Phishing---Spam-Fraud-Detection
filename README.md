@@ -8,7 +8,7 @@
 ### Data Sources
 
 (identify files and describe what they contain)
-
+link to daset on Kaggle: https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
 
 ### Project Workflow
 
