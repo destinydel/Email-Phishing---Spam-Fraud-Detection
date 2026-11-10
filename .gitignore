@@ -1,2 +1,10 @@
-# Ignore local datasets
-kaggle_data/
+# Raw datasets
+data/raw/
+
+# Processed datasets
+#data/processed/
+
+# Trained models
+#models/
+
+
