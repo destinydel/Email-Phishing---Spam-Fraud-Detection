@@ -1,10 +1,10 @@
 
 # Processed datasets
-#data/processed/
+data/raw/
+#git rm -r --cached data/raw/data/processed/
 
 # Trained models
 #models/
 
 
-data/raw/zenodo/
 .DS_Store
