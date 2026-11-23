@@ -2,6 +2,7 @@
 # Processed datasets
 data/raw/
 data/processed
+data/flagged
 
 # Trained models
 #models/
