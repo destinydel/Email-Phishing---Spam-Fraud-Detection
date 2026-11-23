@@ -8,3 +8,6 @@ data/processed
 
 
 .DS_Store
+
+# Python cache files (made automatically)
+__pycache__/
