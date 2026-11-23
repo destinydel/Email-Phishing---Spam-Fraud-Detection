@@ -1,10 +1,13 @@
 
 # Processed datasets
 data/raw/
-#git rm -r --cached data/raw/data/processed/
+data/processed
 
 # Trained models
 #models/
 
 
 .DS_Store
+
+# Python cache files (made automatically)
+__pycache__/
